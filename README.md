@@ -34,6 +34,9 @@ This project identifies which customers are at risk of leaving a telecom company
   - KPI card for churn rate (27%)
   - Churn by contract, tech support, tenure
   - Interactive slicers (gender, payment method)
+## 📊 Dashboard Preview
+
+![Customer Churn Dashboard](images/dashboard_overview.png)
 
 ---
 
