@@ -36,7 +36,7 @@ This project identifies which customers are at risk of leaving a telecom company
   - Interactive slicers (gender, payment method)
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](images/dashboard_overview.png)
+![Customer Churn Dashboard](images/Dashboard.png)
 
 ---
 
