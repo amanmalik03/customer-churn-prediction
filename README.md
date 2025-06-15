@@ -1,7 +1,7 @@
 # customer-churn-prediction
 # 📊 Customer Churn Prediction Dashboard
 
-This project identifies which customers are at risk of leaving a telecom company by combining predictive analytics (Python) and aninteractive dashboard (Power BI).
+This project identifies which customers are at risk of leaving a telecom company by combining **predictive analytics (Python)** and an **interactive dashboard (Power BI)**.
 
 ---
 
@@ -37,14 +37,6 @@ This project identifies which customers are at risk of leaving a telecom company
 
 ---
 
-## 📊 Dashboard Preview
-
-![Churn KPI](images/churn_kpi.png)
-![Churn by Contract](images/contract_chart.png)
-![Monthly Charges Binned](images/monthly_bins.png)
-
----
-
 ## 🧠 Business Insight
 
 Customers with:
@@ -61,6 +53,7 @@ Customers with:
 **Aman Malik**  
 MSc Business Analytics, Aston University (2024–2025)  
 📫 [LinkedIn Profile](https://www.linkedin.com/in/amanmalik03)
+
 
 ---
 
